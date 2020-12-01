@@ -17,7 +17,6 @@ public class DoobooUtils {
   public static final String E_REMOTE_ERROR = "E_REMOTE_ERROR";
   public static final String E_USER_ERROR = "E_USER_ERROR";
   public static final String E_DEVELOPER_ERROR = "E_DEVELOPER_ERROR";
-  public static final String E_PURCHASE_EMPTY = "E_PURCHASE_EMPTY";
   public static final String E_BILLING_RESPONSE_JSON_PARSE_ERROR = "E_BILLING_RESPONSE_JSON_PARSE_ERROR";
 
   private static DoobooUtils instance = new DoobooUtils();
